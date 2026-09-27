@@ -1,0 +1,14 @@
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\bin\Debug\net10.0\binaryTranslator.exe
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\bin\Debug\net10.0\binaryTranslator.deps.json
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\bin\Debug\net10.0\binaryTranslator.runtimeconfig.json
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\bin\Debug\net10.0\binaryTranslator.dll
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\bin\Debug\net10.0\binaryTranslator.pdb
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.AssemblyInfoInputs.cache
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.AssemblyInfo.cs
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.csproj.CoreCompileInputs.cache
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.dll
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\refint\binaryTranslator.dll
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.pdb
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\binaryTranslator.genruntimeconfig.cache
+C:\Users\fUJITSU\OneDrive\Desktop\C# folder\binaryTranslator\obj\Debug\net10.0\ref\binaryTranslator.dll
